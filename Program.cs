@@ -1,6 +1,6 @@
 ﻿using Google.Cloud.Compute.V1;
 
-string projectId = "focus-cache-387205";
+string projectId = "XXXXXXXXX";
 // Initialize client that will be used to send requests. This client only needs to be created
 // once, and can be reused for multiple requests.
 InstancesClient client = await InstancesClient.CreateAsync();
